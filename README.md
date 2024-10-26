@@ -10,6 +10,7 @@ I needed a 9V wall wart for a device I recently acquired. Instead of buying anot
 
 # Future Modifications
 * Add a rotary switch for rapid voltage changes
+* Add screw terminal option if micro-fit 3.0 connector is not available
 * Design a 3D printable case
 * Add proper BOM, v0.1 design was fabricated and assembled at JLCPCB
 
@@ -19,3 +20,6 @@ Refer to the [License](LICENSE.md) for information.
 # Tools Used
 PCB - Kicad 8
 Software - (TBR)
+
+# Fabricated Design
+![image](https://github.com/asm2750/usb_c_pd_bcr_quickie/blob/main/img/Board_v0_1.jpg)
