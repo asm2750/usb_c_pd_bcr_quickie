@@ -19,7 +19,6 @@ Refer to the [License](LICENSE.md) for information.
 
 # Tools Used
 PCB - Kicad 8
-Software - (TBR)
 
 # Fabricated Design
 ![image](https://github.com/asm2750/usb_c_pd_bcr_quickie/blob/main/img/Board_v0_1.jpg)
